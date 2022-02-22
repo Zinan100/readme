@@ -1,4 +1,14 @@
-### Hi there 👋
+###  🥰 Hi, Iam Abhishek
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Aadhi000/&title=Profile%20Views)
+
+<p align="center">
+<a href="https://t.me/abhisheksvlog"><img alt="Telegram" src="https://img.shields.io/badge/ABHISHEK-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=200920082007&theme=highcontrast" align="center">
+</p>
+    
 
 <!--
 **200920082007/200920082007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
