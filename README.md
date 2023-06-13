@@ -1,6 +1,6 @@
 ###  🥰 Hi, Iam Muhammad Zinan
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/200920082007/&title=Profile%20Views)
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+abhisheks's+Profile)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+zinan's+Profile)](https://git.io/typing-svg)
 
 
 * 📚 Student and Learning Pyrogram
